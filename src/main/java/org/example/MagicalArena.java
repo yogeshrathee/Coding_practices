@@ -159,7 +159,6 @@ public class MagicalArena {
                 break;
             }
         }
-
         scanner.close();
     }
 }
